@@ -21,3 +21,8 @@ Banyak individu mengalami kesulitan dalam mematuhi regimen pengobatan mereka, ya
 - **Desain Ergonomis**: Berbentuk kotak dengan ukuran 27 x 19 x 26 cm, bahan ABS, dan berat 2500 gram.
 
 ![image](https://github.com/user-attachments/assets/e64e7373-cbf6-4bc5-a50e-1904ee17e5d7)
+
+## UI/UX Prototype <br>
+
+![image](https://github.com/user-attachments/assets/0bdf730d-5cb7-4b3d-b3dc-7e01645fc7bc)
+Link: https://www.figma.com/proto/eJdv5eoRB7mWEDiuVE2yUZ/Smart-Medical-Station?t=DJSJnhiNXLz0sUj3-1
