@@ -1,6 +1,6 @@
-# Smart-Medical-Station
+# Smart Medical Station
 
-<a href="logo github"><img src="![image](https://github.com/user-attachments/assets/ef611248-5638-4636-b18a-831b98906e37)" align="middle" width="100" height="50"></a>
+<img src="https://github.com/user-attachments/assets/ef611248-5638-4636-b18a-831b98906e37" alt="image" width="250" />
 
 ## Deskripsi Proyek <br>
 Proyek ini bertujuan untuk mendesain, membangun, dan menguji sebuah stasiun medis cerdas yang dapat membantu pengguna mengkonsumsi obat secara teratur dengan menggunakan berbagai komponen IoT serta melakukan diagnosa awal terhadap kondisi kesehatan pengguna menggunakan algoritma pembelajaran mesin.
