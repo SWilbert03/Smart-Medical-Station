@@ -1,6 +1,6 @@
 # Smart-Medical-Station
 
-![image](https://github.com/user-attachments/assets/e64e7373-cbf6-4bc5-a50e-1904ee17e5d7)
+![image](https://github.com/user-attachments/assets/ef611248-5638-4636-b18a-831b98906e37)
 
 ## Deskripsi Proyek <br>
 Proyek ini bertujuan untuk mendesain, membangun, dan menguji sebuah stasiun medis cerdas yang dapat membantu pengguna mengkonsumsi obat secara teratur dengan menggunakan berbagai komponen IoT serta melakukan diagnosa awal terhadap kondisi kesehatan pengguna menggunakan algoritma pembelajaran mesin.
@@ -17,3 +17,5 @@ Banyak individu mengalami kesulitan dalam mematuhi regimen pengobatan mereka, ya
 - **Konektivitas**: Koneksi Wi-Fi yang terhubung dengan ponsel pengguna dan server.
 - **Daya Tahan Baterai**: Baterai Li-ion dengan tegangan DC 5V, arus maksimal 2A, kapasitas 6000 mAh.
 - **Desain Ergonomis**: Berbentuk kotak dengan ukuran 27 x 19 x 26 cm, bahan ABS, dan berat 2500 gram.
+
+![image](https://github.com/user-attachments/assets/e64e7373-cbf6-4bc5-a50e-1904ee17e5d7)
