@@ -8,7 +8,7 @@ Proyek ini bertujuan untuk mendesain, membangun, dan menguji sebuah stasiun medi
 ## Latar Belakang <br>
 Banyak individu mengalami kesulitan dalam mematuhi regimen pengobatan mereka, yang dapat berdampak negatif pada proses penyembuhan dan menimbulkan masalah kesehatan yang lebih serius. Proyek ini bertujuan untuk mengatasi masalah tersebut dengan menyediakan solusi berbasis teknologi.
 
-# Fitur Utama <br>
+## Fitur Utama <br>
 - **Akurasi Dosis**: Sensor berat yang mengingat berat dari setiap obat yang disimpan.
 - **Waktu Pengiriman Dosis**: Real-time clock module dan program penjadwalan.
 - **Kapasitas Penyimpanan**: 10 kompartemen yang dapat memuat hingga 500 tablet, dilengkapi kunci pengaman.
